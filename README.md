@@ -10,7 +10,7 @@ Lab 1
   
   ![image](https://user-images.githubusercontent.com/47079437/217109292-53ea4ff0-266d-4926-adc0-6ce9151b28ac.png)
 
-my running app
+##my running app
 
 ![image](https://user-images.githubusercontent.com/47079437/217109367-724f7268-2786-430f-b817-fe76204e2b43.png)
 
@@ -25,7 +25,7 @@ helm install my-jenkins jenkins/jenkins
 ![image](https://user-images.githubusercontent.com/47079437/217109868-cd0f7419-4fde-4fa1-88c2-72f92034b0bd.png)
  iam using a running instance so i needed a reverse proxy with nginx
  ![image](https://user-images.githubusercontent.com/47079437/217109964-54525f50-9828-4f3e-8969-ee3b4eee8211.png)
-
+## my running jenkins
 ![image](https://user-images.githubusercontent.com/47079437/217109909-09fcf0e9-cbc2-4a44-9570-d4f68fabd680.png)
 ![image](https://user-images.githubusercontent.com/47079437/217110030-5a1a6f54-c09c-42b1-a005-3057e44bf32d.png)
 
