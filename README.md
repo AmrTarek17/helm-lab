@@ -17,7 +17,7 @@
 
 ## 2. Deploy Jenkins Chart on the cluster and login to Jenkins.
 
-* istalled the chart using the following command
+* installed the chart using the following command
 ```
 helm install my-jenkins jenkins/jenkins
 ```
