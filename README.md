@@ -23,7 +23,7 @@ helm install my-jenkins jenkins/jenkins
 ```
 ![image](https://user-images.githubusercontent.com/47079437/217109826-7bc18151-54c9-4497-a37a-848ea1519d79.png)
 ![image](https://user-images.githubusercontent.com/47079437/217109868-cd0f7419-4fde-4fa1-88c2-72f92034b0bd.png)
- iam using a running instance so i needed a reverse proxy with nginx
+### iam using a running instance so i needed a reverse proxy with nginx
  ![image](https://user-images.githubusercontent.com/47079437/217109964-54525f50-9828-4f3e-8969-ee3b4eee8211.png)
 ### my running jenkins
 ![image](https://user-images.githubusercontent.com/47079437/217109909-09fcf0e9-cbc2-4a44-9570-d4f68fabd680.png)
