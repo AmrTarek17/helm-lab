@@ -10,7 +10,7 @@ Lab 1
   
   ![image](https://user-images.githubusercontent.com/47079437/217109292-53ea4ff0-266d-4926-adc0-6ce9151b28ac.png)
 
-##my running app
+## my running app
 
 ![image](https://user-images.githubusercontent.com/47079437/217109367-724f7268-2786-430f-b817-fe76204e2b43.png)
 
